@@ -4,7 +4,7 @@ Jeg er multimediedesignstuderende på 3. semester på Erhvervsakademi København
 
 Det, der især tiltaler mig ved multimediedesign, er kombinationen af det tekniske og kreative. Jeg kan godt lide at arbejde med løsninger, der både fungerer teknisk, er brugervenlige og har et gennemtænkt visuelt udtryk.
 
-Jeg arbejder primært med webudvikling og design og er særligt interesseret i frontend, responsive websites og brugeroplevelser.
+Jeg arbejder primært med webudvikling og design og er særligt interesseret i frontend, responsive hjemmesider og brugeroplevelser.
 
 ---
 
