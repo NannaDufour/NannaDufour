@@ -2,15 +2,15 @@
 
 Jeg er multimediedesignstuderende på 3. semester på Erhvervsakademi København med fokus på **frontend development**.
 
-Det, der især tiltaler mig ved multimediedesign, er kombinationen af det **tekniske og kreative**. Jeg kan godt lide at arbejde med løsninger, der både fungerer teknisk, er brugervenlige og har et gennemtænkt visuelt udtryk.
+Det, der især tiltaler mig ved multimediedesign, er kombinationen af det tekniske og kreative. Jeg kan godt lide at arbejde med løsninger, der både fungerer teknisk, er brugervenlige og har et gennemtænkt visuelt udtryk.
 
-Jeg arbejder primært med webudvikling og design og er særligt interesseret i **frontend, responsive websites og brugeroplevelser**.
+Jeg arbejder primært med webudvikling og design og er særligt interesseret i frontend, responsive websites og brugeroplevelser.
 
 ---
 
-## 🛠️ Værktøjer & teknologier
+## Værktøjer & teknologier
 
-### 💻 Frontend
+### Frontend
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -18,7 +18,7 @@ Jeg arbejder primært med webudvikling og design og er særligt interesseret i *
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
 </p>
 
-### 🎨 Design & Adobe
+### Design & Adobe
 
 <p>
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
@@ -28,7 +28,7 @@ Jeg arbejder primært med webudvikling og design og er særligt interesseret i *
   <img alt="Adobe Premiere Pro" src="https://img.shields.io/badge/-Premiere%20Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
 </p>
 
-### 🌐 CMS
+### CMS
 
 <p>
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
@@ -48,9 +48,9 @@ Jeg er i gang med at udvide mine frontend-kompetencer og arbejder blandt andet m
 
 ---
 
-## 🚀 Udvalgte projekter
+## Udvalgte projekter
 
-### 🌐 Webportfolio
+### Webportfolio
 
 Min personlige webportfolio med fokus på at præsentere mine projekter og kompetencer.
 
@@ -63,7 +63,7 @@ Min personlige webportfolio med fokus på at præsentere mine projekter og kompe
 
 ---
 
-### 📱 Web App – Yo-Ja
+### Web App – Yo-Ja
 
 En webapplikation udviklet som en del af mit studie med fokus på dynamisk indhold og brugerinteraktion.
 
@@ -77,7 +77,7 @@ En webapplikation udviklet som en del af mit studie med fokus på dynamisk indho
 
 ---
 
-## 🎓 Uddannelse
+## Uddannelse
 
 **Multimediedesign**
 Erhvervsakademi København
@@ -86,7 +86,7 @@ Fokus på frontend development
 
 ---
 
-## 📫 Kontakt
+## Kontakt
 
 **LinkedIn:** [Nanna Dufour](https://www.linkedin.com/in/nanna-dufour-9b99733a3/)
 **Portfolio:** [Nannadufour.dk](https://nannadufour.dk)
