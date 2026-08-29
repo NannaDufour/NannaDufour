@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hej 👋 Mit navn er Nanna Beltoft Dufour
+┌─────────────────────────────────────┐
+│ 👋 Hej! Mit navn er Nanna Beltoft   │
+│    Dufour                           │
+│                                     │
+│ Studerer Multimediedesign           │
+│ Fokus på Frontend                   │
+│                                     │
+│ HTML • CSS • JS • React • Next.js   │
+└─────────────────────────────────────┘
+
 
 <h3>Når jeg koder gør jeg brug af: </h3>
 <p>
@@ -7,14 +17,43 @@
 <!--
 **NannaDufour/NannaDufour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👨‍💻 Omkring mig
+
+Jeg bor til dagligt i København, hvor jeg studerer multimediedesign på 3. semester. Det der tiltaler mig ved multimediedesign faget et koblingen mellem det tekniske og det kreative. At skulle tænke på løsninger der både skal fungere, være brugervenligt og æstetisk tiltalende. 
+
+
+## 🚀 Mine projekter
+
+### Projekt 1
+Webportfolio
+Teknisk fokus
+→ Responsivt Design
+→ Brugervenlighed
+→ Brug af semantisk HTML
+
+### Projekt 2
+Web App - Yo-Ja
+Teknisk fokus
+→ Dynamisk indhold m. Javascript
+→ Semantisk HTML
+→ 
+
+## 📚 I gang med at lære
+
+React
+Next.js
+Astro
+  
+## 🎓 Uddannelse
+
+Multimediedesign – Erhvervsakademi København
+3. semester
+Fokus på frontend
+
+## 📫 Kontakt
+
+LinkedIn: https://www.linkedin.com/in/nanna-dufour-9b99733a3/
+Portfolio: Nannadufour.dk
+Email: Nadu1000@stud.ek.dk
