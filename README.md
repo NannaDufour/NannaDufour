@@ -36,7 +36,7 @@ Jeg arbejder primært med webudvikling og design og er særligt interesseret i f
 
 ---
 
-## 📚 I gang med at lære
+## I gang med at lære
 
 Jeg er i gang med at udvide mine frontend-kompetencer og arbejder blandt andet med:
 
